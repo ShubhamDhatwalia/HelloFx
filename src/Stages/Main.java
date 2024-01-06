@@ -1,4 +1,4 @@
-package helloFx;
+package Stages;
 
 import javafx.application.Application;
 import javafx.scene.Group;
